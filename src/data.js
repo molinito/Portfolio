@@ -1,61 +1,61 @@
 export const skills = [
   // incluir logos de las tecnologias que voy a usar
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
      <img alt="javascript"
      src="https://img.icons8.com/color/48/000000/javascript.png"/>
      Javascript
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="react"
       src="https://img.icons8.com/color/48/000000/react-native.png"/>
       React
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="node"
       src="https://img.icons8.com/color/48/000000/nodejs.png" style={{background:"white"}}/>
       Node
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="express" 
       src="https://img.icons8.com/color/48/000000/express.png" style={{background:"green"}}/>
       Express
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="postgresql"
       src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
       PostgreSQL
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="html"
       src="https://img.icons8.com/color/48/000000/html-5.png"/>
       HTML
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="css"
       src="https://img.icons8.com/color/48/000000/css3.png"/>
       CSS
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="bootstrap"
       src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
       Bootstrap
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="tailwind"
       src="./tailwind.ico" style={{width:"40px", height:"40px"}}/>
       Tailwind
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="github"
       src="https://img.icons8.com/color/48/000000/github--v1.png"/>
       GitHub
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="redux"
       src="https://img.icons8.com/color/48/000000/redux.png"/>
       Redux
   </div>,
-  <div className="flex flex-wrap -m-4">
+  <div className="flex flex-wrap -m-1">
       <img alt="sequelize"
       src="./sequelize.png"/>
       Sequelize
@@ -115,6 +115,15 @@ export const projects = [
       </a> ,
       link:"https://linkedin.com/in/gfzabarino",
     },
+    {
+      quote:
+      <img alt="perfil" src={"./6.png"} height="500" width="450" frameborder="100%" allowfullscreen="" title="Publicación integrada"></img>,
+      image: "./17.jpeg",
+      name: "Franco Charriol",
+      company: <a href="https://cxonexus.com/" className="text-yellow-500"> <h6>CXO Nexus</h6>
+      <img src="./nexus.jpg" alt="logo" className="w-6 inline-block" style={{width:"20%"}} />
+      </a> ,
+      link:"https://linkedin.com/in/franco-charriol-567bb536",
+    },
   ];
   
- 

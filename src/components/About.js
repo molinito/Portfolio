@@ -19,9 +19,9 @@ export default function About() {
                 Estoy en constante aprendizaje y me encanta compartir mis conocimientos. 
                 Recién graduado de la carrera de Fullstack Developer en la Academia Henry. Búscalo en
                 {/*crear un llink referencia a soyhenry.com*/ }
-                <a href="https://www.soyhenry.com/" className="text-green-500"> SoyHenry</a>.
+                <a href="https://www.soyhenry.com/" className="text-green-500"> SoyHenry</a> .
                 <br className="hidden lg:inline-block" />
-                Me desempeño en el desarrollo de aplicaciones web y móviles, de manera indivual, pero trabajar en equipo es donde puedo potenciar mis fortalezas.
+                Me desempeño en el desarrollo de aplicaciones web. Trabajo de forma individual, pero hacerlo en equipo es donde puedo potenciar mis fortalezas.
                 <br className="hidden lg:inline-block" />
                 Vengo a integrarme al mundo IT ofreciendo mis servicios para satisfacer 
                 las necesidades de las empresas y clientes usuarios.
