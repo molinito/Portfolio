@@ -21,9 +21,11 @@ export default function About() {
                 {/*crear un llink referencia a soyhenry.com*/ }
                 <a href="https://www.soyhenry.com/" className="text-green-500"> SoyHenry</a>.
                 <br className="hidden lg:inline-block" />
+                Me desempeño en el desarrollo de aplicaciones web y móviles, de manera indivual, pero trabajar en equipo es donde puedo potenciar mis fortalezas.
+                <br className="hidden lg:inline-block" />
                 Vengo a integrarme al mundo IT ofreciendo mis servicios para satisfacer 
                 las necesidades de las empresas y clientes usuarios.
-                Este es mi portafolio, espero que lo disfrutes.
+                Este es mi portfolio, espero que lo disfrutes.
                 </p>
               <div className="flex justify-center">
                 <a

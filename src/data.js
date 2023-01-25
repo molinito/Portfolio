@@ -70,8 +70,8 @@ export const projects = [
       title: "ACMEtronics",
       subtitle: "Tienda de tecnología",
       description:
-      "Proyecto final del curso de React de Henry. Tienda de tecnología con carrito de compras, método de pagos, registro x mail, filtros, paginado, ordenamiento, etc. Se utilizó React, Redux, Node, Express, Sequelize, PostgreSQL, Tailwind, Bootstrap, etc.",
-      image: "./19.gif",
+      "Proyecto final grupal del curso de React de Henry. Tienda de tecnología con carrito de compras, método de pagos, registro x mail, filtros, paginado, ordenamiento, etc. Se utilizó React, Redux, Node, Express, Sequelize, PostgreSQL, Tailwind, Bootstrap, etc.",
+      image: "./20.gif",
       link: "https://front-acmetronic-production.up.railway.app/",
     },
     {
@@ -79,7 +79,7 @@ export const projects = [
       subtitle: "Pronóstico climatico",
       description: "Pequeño proyecto hecho con React. Se utiliza la API de Openweathermap para obtener el pronóstico climático de una ciudad. Se puede buscar por nombre de ciudad.",
       image: "./31.gif",
-      link: "https://reedbarger.com",
+      link: "https://github.com/molinito/Fast-Weather",
     },
    
   ];
@@ -116,4 +116,5 @@ export const projects = [
       link:"https://linkedin.com/in/gfzabarino",
     },
   ];
-
+  
+ 

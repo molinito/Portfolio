@@ -12,7 +12,7 @@ export default function Projects() {
             Mis primeros proyectos
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Estos son algunos de mis primeros proyectos, algunos de ellos son de Henry, otros son de cursos que realicé.
+            Estos son algunos de mis proyectos, algunos de ellos son de Henry, otros son de cursos que realicé.
             Como todo estudiante, estoy en constante aprendizaje y crecimiento, siempre buscando mejorar mis habilidades
             para lograr mejores prácticas y performance.
           </p>
