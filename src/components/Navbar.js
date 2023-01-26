@@ -27,11 +27,19 @@ export default function Navbar() {
             Testimonios
             </a>
         </nav>
+
+        <a href="linkedin.com/in/marcelo-saravia-27128092" className="mr-1 hover:text-white" >
+            <img alt="icono" src="./51.png" style={{width:"100%"}}/>
+            </a>
+        <a href="https://github.com/molinito" >
+            <img alt="icono" src="./github15.png" style={{width:"100%"}}/>
+            </a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Contactame
           <ArrowRightIcon className="w-4 h-4 ml-1" />
+          
         </a>
       </div>
     </header>
