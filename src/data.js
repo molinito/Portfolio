@@ -85,7 +85,7 @@ export const projects = [
       title: "Mini ecommerce",
       subtitle: "Tienda virtual",
       description: "Pequeño proyecto hecho con React. Se utiliza la API de la web Fakestoreapi.com para crear los articulos.",
-      image: "./ 05.gif",
+      image: "./05.gif",
       link: "https://superb-melomakarona-ba2814.netlify.app/",
     },
    
@@ -94,7 +94,7 @@ export const projects = [
   export const testimonials = [
     {
       quote:
-      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7022256808715010048" height="450" width="100%" frameborder="0"  title="Publicación integrada"></iframe>,
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7022256808715010048" height="450" width="100%" frameBorder="0"  title="Publicación integrada"></iframe>,
       image: "./Pau.jpeg",
       name: "Paula Kunning",
       company: <a href="https://www.soyhenry.com/" className="text-yellow-500"><h6>Soy Henry</h6>
@@ -104,7 +104,7 @@ export const projects = [
     },
     {
       quote:
-      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023297202127036416" height="450" width="100%" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>,
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023297202127036416" height="450" width="100%" frameBorder="0" allowFullScreen="" title="Publicación integrada"></iframe>,
       image: "./Erika.jpeg",
       name: "Erika Pineda",
       company: <a href="https://www.soyhenry.com/" className="text-yellow-500"><h6>Soy Henry</h6>
@@ -114,7 +114,7 @@ export const projects = [
     },
     {
       quote:
-      <img alt="perfil" src={"./04.png"} height="500" width="450" frameborder="100%" allowfullscreen="" title="Publicación integrada"></img>,
+      <img alt="perfil" src={"./04.png"} height="500" width="450" frameBorder="100%" allowFullScreen="" title="Publicación integrada"></img>,
       image: "./Gian.jpeg",
       name: "Gian Franco Zabarino",
       company: <a href="https://trupropel.com/" className="text-yellow-500"> <h6>Trupropel</h6>
@@ -124,7 +124,7 @@ export const projects = [
     },
     {
       quote:
-      <img alt="perfil" src={"./6.png"} height="500" width="450" frameborder="100%" allowfullscreen="" title="Publicación integrada"></img>,
+      <img alt="perfil" src={"./6.png"} height="500" width="450" frameBorder="100%" allowFullScreen="" title="Publicación integrada"></img>,
       image: "./17.jpeg",
       name: "Franco Charriol",
       company: <a href="https://cxonexus.com/" className="text-yellow-500"> <h6>CXO Nexus</h6>
