@@ -28,7 +28,7 @@ export default function Navbar() {
             </a>
         </nav>
 
-        <a href="linkedin.com/in/marcelo-saravia-27128092" className="mr-1 hover:text-white" >
+        <a href="https://linkedin.com/in/marcelo-saravia-27128092" className="mr-1 hover:text-white" >
             <img alt="icono" src="./51.png" style={{width:"100%"}}/>
             </a>
         <a href="https://github.com/molinito" >
