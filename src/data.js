@@ -84,15 +84,15 @@ export const projects = [
     {
       title: "Mini ecommerce",
       subtitle: "Tienda virtual",
-      description: "Proyecto hecho con React. Se utiliza la API de la web Fakestoreapi.com para crear los articulos.",
+      description: "Proyecto hecho con React. Se utiliza la API de la web Fakestoreapi.com para crear los articulos. Se puede seleecionar 1 o mas articulos y agregarlos al carrito de compras, también se puede seleccionar por diferentes categorias",
       image: "./05.gif",
       link: "https://superb-melomakarona-ba2814.netlify.app/",
     },
     {
       title: "Desis PHP",
       subtitle: "Sistema de Votación",
-      description: "Proyecto hecho con PHP, MySQL, Javascript, Xampp, sobre sistema de votación con uso de bases de datos y servidores (Backend).",
-      image: "./Desis-PHP.gif",
+      description: "Proyecto hecho con HTML,PHP, MySQL, Javascript, Xampp, sobre sistema de votación con uso de bases de datos y servidores (Backend). Dentro del formulario se aplicaron las validaciones en los campos, donde el cliente solicitó los mismos",
+      image: "./06.gif",
       link: "https://github.com/molinito/desis-php",
     },
    
