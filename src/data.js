@@ -82,7 +82,7 @@ export const projects = [
     title: "ACMEtronics",
     subtitle: "Tienda de tecnología",
     description:
-      "Proyecto final grupal del curso de React de Henry. Tienda de tecnología con carrito de compras, método de pagos, registro x mail, filtros, paginado, ordenamiento, etc. Se utilizó React, Redux, Node, Express, Sequelize, PostgreSQL, Tailwind, Bootstrap, etc.",
+      "Proyecto final grupal del curso de React de Henry.",
     image: "./20.gif",
     link: "https://front-acmetronic-production.up.railway.app/",
   },
@@ -90,7 +90,7 @@ export const projects = [
     title: "Fast Wheather",
     subtitle: "Pronóstico climatico",
     description:
-      "Pequeño proyecto hecho con React. Se utiliza la API de Openweathermap para obtener el pronóstico climático de una ciudad. Se puede buscar por nombre de ciudad.",
+      "Pequeño proyecto hecho con React.Se usó la API de Openweathermap.",
     image: "./31.gif",
     link: "https://github.com/molinito/Fast-Weather",
   },
@@ -99,7 +99,7 @@ export const projects = [
     title: "Mini ecommerce",
     subtitle: "Tienda virtual",
     description:
-      "Proyecto hecho con React. Se utiliza la API de la web Fakestoreapi.com para crear los articulos. Se puede seleecionar 1 o mas articulos y agregarlos al carrito de compras, también se puede seleccionar por diferentes categorias",
+      "Proyecto hecho con React. Se utiliza la API de la web Fakestoreapi.com para crear los articulos.",
     image: "./05.gif",
     link: "https://superb-melomakarona-ba2814.netlify.app/",
   },
@@ -107,7 +107,7 @@ export const projects = [
     title: "Desis PHP",
     subtitle: "Sistema de Votación",
     description:
-      "Proyecto hecho con HTML,PHP, MySQL, Javascript, Xampp, sobre sistema de votación con uso de bases de datos y servidores (Backend). Dentro del formulario se aplicaron las validaciones en los campos, donde el cliente solicitó los mismos",
+      "Proyecto hecho con HTML,PHP, MySQL, Javascript, Xampp, sobre sistema de votación",
     image: "./06.gif",
     link: "https://github.com/molinito/desis-php",
   },
@@ -116,7 +116,7 @@ export const projects = [
     title: "Language App",
     subtitle: "Traductor de textos a diferentes idiomas",
     description:
-      "Proyecto hecho con HTML,CSS, React, Javascript, Api, Axios, sobre traducto de texto a diferentes lenguajes usando la Api para las solicitudes y respuestas del servicio de la web RapidApi.com.",
+      "Traductor de texto a diferentes lenguajes usando la Api de la web RapidApi.com.",
     image: "./text-translator.gif",
     link: "https://splendorous-shortbread-63d3c3.netlify.app/",
   },
