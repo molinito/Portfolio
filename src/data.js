@@ -75,6 +75,16 @@ export const skills = [
     <img alt="sequelize" src="./sequelize.png" />
     Sequelize
   </div>,
+  <div className="flex flex-wrap -m-1">
+    <img alt="mysql" src="./mysql.png" 
+    style={{ width: "50px", height: "40px"}}/>
+    MySQL
+  </div>,
+  <div className="flex flex-wrap -m-1">
+    <img alt="php" src="./php.png"
+    style={{ width: "60px", height: "40px" }} />
+    PHP
+  </div>,
 ];
 
 export const projects = [
