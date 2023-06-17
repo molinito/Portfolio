@@ -13,6 +13,7 @@ export default function Skills() {
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
           <img src="./pngegg27.png" alt="1" style={{borderRadius:"20px", width:"50%", height:"50%", marginLeft:"25%"}}/>
+            <br />
             Traigo una gran cantidad de habilidades
             que me ayudan a trabajar en equipo y a comunicarme de manera efectiva, soy creativo, perseverante,
             respetuoso, con actitudes de líder y colaborativo, dedicándome
