@@ -119,7 +119,7 @@ export const projects = [
     description:
       "Proyecto hecho con HTML,PHP, MySQL, Javascript, Xampp, sobre sistema de votación",
     image: "./06.gif",
-    link: "https://github.com/molinito/desis-php",
+    link: "https://molinitodesis.000webhostapp.com/",
   },
 
   {
