@@ -102,7 +102,7 @@ export const projects = [
     description:
       "Pequeño proyecto hecho con React.Se usó la API de Openweathermap.",
     image: "./31.gif",
-    link: "https://github.com/molinito/Fast-Weather",
+    link: "https://jolly-jalebi-8d2c66.netlify.app/",
   },
 
   {
