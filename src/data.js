@@ -1,3 +1,5 @@
+import React from "react";
+
 export const skills = [
   // incluir logos de las tecnologias que voy a usar
   <div className="flex flex-wrap -m-1">
@@ -85,6 +87,16 @@ export const skills = [
     style={{ width: "60px", height: "40px" }} />
     PHP
   </div>,
+  <div className="flex flex-wrap -m-1">
+  <img alt="php" src="./figma.png"
+  style={{ width: "50px", height: "40px" }} />
+  Figma
+</div>,
+<div className="flex flex-wrap -m-1">
+    <img alt="php" src="./scrum.png"
+    style={{ width: "50px", height: "40px" }} />
+    Scrum
+  </div>,
 ];
 
 export const projects = [
@@ -129,6 +141,15 @@ export const projects = [
       "Traductor de texto a diferentes lenguajes usando la Api de la web RapidApi.com.",
     image: "./text-translator.gif",
     link: "https://splendorous-shortbread-63d3c3.netlify.app/",
+  },
+
+  {
+    title: "Calculadora Intereses",
+    subtitle: "Proyección intereses método simple",
+    description:
+      "Calculadora de intereses para proyección de ganancias usando el método simple. Hecho con React y Javsacript.",
+    image: "./output.gif",
+    link: "https://calculo-interes.vercel.app/",
   },
 ];
 
