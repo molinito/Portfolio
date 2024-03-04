@@ -2,10 +2,11 @@ import React from "react";
 
 export const skills = [
   // incluir logos de las tecnologias que voy a usar
-  <div className="flex flex-wrap -m-1">
+  <div className="flex flex-flex -m-1">
     <img
       alt="javascript"
       src="https://img.icons8.com/color/48/000000/javascript.png"
+      style={{marginRight: "10px"}}
     />
     Javascript
   </div>,
@@ -13,6 +14,7 @@ export const skills = [
     <img
       alt="react"
       src="https://img.icons8.com/color/48/000000/react-native.png"
+      style={{marginRight: "10px"}}
     />
     React
   </div>,
@@ -20,7 +22,7 @@ export const skills = [
     <img
       alt="node"
       src="https://img.icons8.com/color/48/000000/nodejs.png"
-      style={{ background: "white" }}
+      style={{ background: "white", marginRight: "10px" }}
     />
     Node
   </div>,
@@ -28,7 +30,7 @@ export const skills = [
     <img
       alt="express"
       src="https://img.icons8.com/color/48/000000/express.png"
-      style={{ background: "green" }}
+      style={{ background: "green", marginRight: "10px" }}
     />
     Express
   </div>,
@@ -36,21 +38,28 @@ export const skills = [
     <img
       alt="postgresql"
       src="https://img.icons8.com/color/48/000000/postgreesql.png"
+      style={{marginRight: "10px"}}
     />
     PostgreSQL
   </div>,
   <div className="flex flex-wrap -m-1">
-    <img alt="html" src="https://img.icons8.com/color/48/000000/html-5.png" />
+    <img alt="html" src="https://img.icons8.com/color/48/000000/html-5.png" 
+    style={{marginRight: "10px"}}
+    />
+    
     HTML
   </div>,
   <div className="flex flex-wrap -m-1">
-    <img alt="css" src="https://img.icons8.com/color/48/000000/css3.png" />
+    <img alt="css" src="https://img.icons8.com/color/48/000000/css3.png" 
+    style={{marginRight: "10px"}}
+    />
     CSS
   </div>,
   <div className="flex flex-wrap -m-1">
     <img
       alt="bootstrap"
       src="https://img.icons8.com/color/48/000000/bootstrap.png"
+      style={{marginRight: "10px"}}
     />
     Bootstrap
   </div>,
@@ -58,7 +67,7 @@ export const skills = [
     <img
       alt="tailwind"
       src="./tailwind.ico"
-      style={{ width: "40px", height: "40px" }}
+      style={{ width: "40px", height: "40px", marginRight: "10px" }}
     />
     Tailwind
   </div>,
@@ -66,35 +75,40 @@ export const skills = [
     <img
       alt="github"
       src="https://img.icons8.com/color/48/000000/github--v1.png"
+      style={{marginRight: "10px"}}
     />
     GitHub
   </div>,
   <div className="flex flex-wrap -m-1">
-    <img alt="redux" src="https://img.icons8.com/color/48/000000/redux.png" />
+    <img alt="redux" src="https://img.icons8.com/color/48/000000/redux.png" 
+    style={{marginRight: "10px"}}
+    />
     Redux
   </div>,
   <div className="flex flex-wrap -m-1">
-    <img alt="sequelize" src="./sequelize.png" />
+    <img alt="sequelize" src="./sequelize.png" 
+    style={{marginRight: "10px"}}
+    />
     Sequelize
   </div>,
   <div className="flex flex-wrap -m-1">
     <img alt="mysql" src="./mysql.png" 
-    style={{ width: "50px", height: "40px"}}/>
+    style={{ width: "50px", height: "40px", marginRight: "10px"}}/>
     MySQL
   </div>,
   <div className="flex flex-wrap -m-1">
     <img alt="php" src="./php.png"
-    style={{ width: "60px", height: "40px" }} />
+    style={{ width: "60px", height: "40px", marginRight: "10px" }} />
     PHP
   </div>,
   <div className="flex flex-wrap -m-1">
   <img alt="php" src="./figma.png"
-  style={{ width: "50px", height: "40px" }} />
+  style={{ width: "50px", height: "40px", marginRight: "10px" }} />
   Figma
 </div>,
 <div className="flex flex-wrap -m-1">
     <img alt="php" src="./scrum.png"
-    style={{ width: "50px", height: "40px" }} />
+    style={{ width: "50px", height: "40px", marginRight: "10px" }} />
     Scrum
   </div>,
 ];
