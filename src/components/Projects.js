@@ -17,7 +17,7 @@ export default function Projects() {
             para lograr mejores prácticas y performance.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4 w-full">
+        <div className="flex flex-wrap -m-4 w-full mx-auto">
           {projects.map((project) => (
             <a
               href={project.link}

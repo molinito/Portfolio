@@ -243,6 +243,7 @@ export const testimonials = [
           className="w-6 inline-block"
           style={{ width: "20%" }}
         />
+        
       </a>
     ),
     link: "https://linkedin.com/in/gfzabarino",

@@ -13,7 +13,7 @@ export default function Testimonials() {
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial, index) => (
             <div key={index} className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-blue-700 bg-opacity-20 p-8 rounded" >
+              <div className="h-full bg-blue-700 bg-opacity-20 p-8 rounded">
                 <TerminalIcon className="block w-8 text-gray-500 mb-4" />
                 <p className="leading-relaxed mb-6">{testimonial.quote}</p>
                 <div className="inline-flex items-center">
@@ -28,14 +28,15 @@ export default function Testimonials() {
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       {testimonial.company}
-                   
                     </span>
-                    <span className="text-gray-500 text-sm " >
-                      <a href={testimonial.link} className="text-green-500 text-sm"> 
+                    <span className="text-gray-500 text-sm">
+                      <a
+                        href={testimonial.link}
+                        className="text-green-500 text-sm"
+                      >
                         {testimonial.link}
                       </a>
-                      
-                      </span>
+                    </span>
                   </span>
                 </div>
               </div>
