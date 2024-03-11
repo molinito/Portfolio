@@ -120,7 +120,7 @@ export const projects = [
     description:
       "Proyecto final grupal del curso de React de Henry.",
     image: "./20.gif",
-    link: "https://front-acmetronic-production.up.railway.app/",
+    link: "https://acmetronics-henryproject.vercel.app/",
   },
   {
     title: "Fast Wheather",
